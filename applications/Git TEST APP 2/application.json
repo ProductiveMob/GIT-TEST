@@ -1,0 +1,30 @@
+{
+  "shortVersion": "5.14.0",
+  "name": "Git TEST APP",
+  "description": "nope",
+  "hosts": [
+    {
+      "_id": "5bc6fe45e1c9bb1255000004",
+      "alias": "host_01",
+      "url": "w3.org",
+      "initiallyActive": true,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9"
+    }
+  ],
+  "initialStaticData": null,
+  "designPreferences": {
+    "previewZoom": 1
+  },
+  "gateway": {
+    "disableAutomaticSpinner": true
+  },
+  "hostConnection": null,
+  "contexts": [],
+  "contextEngine": {
+    "useLocation": true,
+    "useClassifier": false,
+    "serializerTypes": [],
+    "automaticallyDetectConfig": true
+  },
+  "_applicationIndexFile": true
+}
